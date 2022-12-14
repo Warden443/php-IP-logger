@@ -1,1 +1,1 @@
-# php-IP-logger
+# Simplemente un IP logger hecho desde php
